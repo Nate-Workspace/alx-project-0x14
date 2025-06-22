@@ -65,6 +65,8 @@ Latest documented version on [RapidAPI](https://rapidapi.com/SAdrian/api/moviesd
   "next": 2,
   "entries": 10
 }
+
+```
 ## Authentication
 To access the MoviesDatabase API, you must authenticate your requests using an API key.
 
